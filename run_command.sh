@@ -1,0 +1,1 @@
+python main.py --mode test --model_path ./models/african_best.pth --test_mode 1 --train_dataset african
